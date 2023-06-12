@@ -1,4 +1,4 @@
-# Starting point
+# me0ws-light
 
 [![build-ublue](https://github.com/me0ws/me0ws-light/actions/workflows/build.yml/badge.svg)](https://github.com/me0ws/me0ws-light/actions/workflows/build.yml)
 
